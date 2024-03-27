@@ -14,3 +14,5 @@ To input a graph manually open a terminal navigate to Graph.Java folder and writ
     javac Graph.java
     java <V>
 After specifying the vertex count follow the programs instructions to make edges and after you're finished you will get the graph.
+## BFS (Breadth-first search)
+Program also includes a BFS algorithm to find the longest path from a source vertex to the furthest vertex.
