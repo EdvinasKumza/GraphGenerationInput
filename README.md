@@ -1,1 +1,1 @@
-# Graph Theory Coursework - Oriented Graph Generation and Manual Input
+Oriented Graph Generation and Manual Input
